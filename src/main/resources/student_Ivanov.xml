@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <id>1</id>
+    <name>Ivan</name>
+    <surname>Ivanov</surname>
+    <disciplines>
+        <subject name="geograthy">
+            <mark>5</mark>
+            <mark>4</mark>
+        </subject>
+        <subject name="math">
+            <mark>4</mark>
+            <mark>5</mark>
+        </subject>
+    </disciplines>
+</student>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <id>2</id>
+    <name>Petr</name>
+    <surname>Petrov</surname>
+    <disciplines>
+        <subject name="economics">
+            <mark>5</mark>
+        </subject>
+    </disciplines>
+</student>

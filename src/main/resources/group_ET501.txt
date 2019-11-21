@@ -1,0 +1,14 @@
+Group name: ET501
+====================================
+Student ID : 1
+Student Name : Ivan
+Student Surname : Ivanov
+Marks: 
+geograthy: 5 4 
+math: 4 5 
+====================================
+Student ID : 2
+Student Name : Petr
+Student Surname : Petrov
+Marks: 
+economics: 5 
